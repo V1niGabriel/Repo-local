@@ -1,3 +1,3 @@
 # Repo-local
 
-Mudança importante mesmo com erros nas escrita
+Alteração desse Readme com foco na correção. 
